@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 76 | 19 |
+| 84 | 20 |
 
 ---
 
@@ -14,21 +14,22 @@
 
 - [*special](#special) (2)
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (16)
+- [brute force](#brute-force) (19)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (18)
+- [constructive algorithms](#constructive-algorithms) (19)
 - [data structures](#data-structures) (2)
-- [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (6)
+- [dfs and similar](#dfs-and-similar) (3)
+- [dp](#dp) (7)
 - [games](#games) (4)
 - [geometry](#geometry) (1)
-- [graphs](#graphs) (2)
-- [greedy](#greedy) (27)
-- [implementation](#implementation) (29)
-- [math](#math) (31)
+- [graphs](#graphs) (3)
+- [greedy](#greedy) (30)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (35)
+- [math](#math) (33)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (12)
-- [strings](#strings) (14)
+- [strings](#strings) (17)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
 
@@ -56,8 +57,11 @@
 | 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 289B | [Polo the Penguin and Matrix](https://codeforces.com/contest/289/problem/B) | 1400 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/289/B%20-%20Polo%20the%20Penguin%20and%20Matrix/solution.py) |
+| 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
+| 416B | [Art Union](https://codeforces.com/contest/416/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/416/B%20-%20Art%20Union/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
+| 574B | [Bear and Three Musketeers](https://codeforces.com/contest/574/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/574/B%20-%20Bear%20and%20Three%20Musketeers/solution.cpp) |
 | 863B | [Kayaking](https://codeforces.com/contest/863/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/863/B%20-%20Kayaking/solution.cpp) |
 | 1927C | [Choose the Different Ones!](https://codeforces.com/contest/1927/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1927/C%20-%20Choose%20the%20Different%20Ones!/solution.cpp) |
 | 1931A | [Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | 800 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1931/A%20-%20Recovering%20a%20Small%20String/solution.py) |
@@ -82,6 +86,7 @@
 |---|---------|------------|----------|
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 359B | [Permutation](https://codeforces.com/contest/359/problem/B) | 1400 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/359/B%20-%20Permutation/solution.py) |
+| 610B | [Vika and Squares](https://codeforces.com/contest/610/problem/B) | 1300 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/610/B%20-%20Vika%20and%20Squares/solution.py) |
 | 680B | [Bear and Finding Criminals](https://codeforces.com/contest/680/problem/B) | 1000 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/680/B%20-%20Bear%20and%20Finding%20Criminals/solution.py) |
 | 1918A | [Brick Wall](https://codeforces.com/contest/1918/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1918/A%20-%20Brick%20Wall/solution.cpp) |
 | 1925A | [We Got Everything Covered!](https://codeforces.com/contest/1925/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1925/A%20-%20We%20Got%20Everything%20Covered!/solution.cpp) |
@@ -111,6 +116,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 445A | [DZY Loves Chessboard](https://codeforces.com/contest/445/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/445/A%20-%20DZY%20Loves%20Chessboard/solution.cpp) |
+| 574B | [Bear and Three Musketeers](https://codeforces.com/contest/574/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/574/B%20-%20Bear%20and%20Three%20Musketeers/solution.cpp) |
 | 2127D | [Root was Built by Love, Broken by Destiny](https://codeforces.com/contest/2127/problem/D) | 1800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2127/D%20-%20Root%20was%20Built%20by%20Love%2C%20Broken%20by%20Destiny/solution.cpp) |
 
 ### dp
@@ -121,6 +127,7 @@
 | 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.cpp) |
 | 289B | [Polo the Penguin and Matrix](https://codeforces.com/contest/289/problem/B) | 1400 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/289/B%20-%20Polo%20the%20Penguin%20and%20Matrix/solution.py) |
 | 359B | [Permutation](https://codeforces.com/contest/359/problem/B) | 1400 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/359/B%20-%20Permutation/solution.py) |
+| 416B | [Art Union](https://codeforces.com/contest/416/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/416/B%20-%20Art%20Union/solution.cpp) |
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
 | 2025B | [Binomial Coefficients, Kind Of](https://codeforces.com/contest/2025/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2025/B%20-%20Binomial%20Coefficients%2C%20Kind%20Of/solution.cpp) |
 
@@ -143,6 +150,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 574B | [Bear and Three Musketeers](https://codeforces.com/contest/574/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/574/B%20-%20Bear%20and%20Three%20Musketeers/solution.cpp) |
 | 1944A | [Destroying Bridges](https://codeforces.com/contest/1944/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1944/A%20-%20Destroying%20Bridges/solution.cpp) |
 | 2127D | [Root was Built by Love, Broken by Destiny](https://codeforces.com/contest/2127/problem/D) | 1800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2127/D%20-%20Root%20was%20Built%20by%20Love%2C%20Broken%20by%20Destiny/solution.cpp) |
 
@@ -156,7 +164,10 @@
 | 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.cpp) |
 | 276B | [Little Girl and Game](https://codeforces.com/contest/276/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/276/B%20-%20Little%20Girl%20and%20Game/solution.cpp) |
 | 381B | [Sereja and Stairs](https://codeforces.com/contest/381/problem/B) | 1100 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/381/B%20-%20Sereja%20and%20Stairs/solution.py) |
+| 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
+| 508B | [Anton and currency you all know](https://codeforces.com/contest/508/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/508/B%20-%20Anton%20and%20currency%20you%20all%20know/solution.cpp) |
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
+| 596B | [Wilbur and Array](https://codeforces.com/contest/596/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/596/B%20-%20Wilbur%20and%20Array/solution.cpp) |
 | 863B | [Kayaking](https://codeforces.com/contest/863/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/863/B%20-%20Kayaking/solution.cpp) |
 | 1197C | [Array Splitting](https://codeforces.com/contest/1197/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1197/C%20-%20Array%20Splitting/solution.cpp) |
 | 1918A | [Brick Wall](https://codeforces.com/contest/1918/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1918/A%20-%20Brick%20Wall/solution.cpp) |
@@ -178,6 +189,12 @@
 | 2127B | [Hamiiid, Haaamid... Hamid?](https://codeforces.com/contest/2127/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2127/B%20-%20Hamiiid%2C%20Haaamid...%20Hamid%3F/solution.cpp) |
 | 2127C | [Trip Shopping](https://codeforces.com/contest/2127/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2127/C%20-%20Trip%20Shopping/solution.cpp) |
 
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 574B | [Bear and Three Musketeers](https://codeforces.com/contest/574/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/574/B%20-%20Bear%20and%20Three%20Musketeers/solution.cpp) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
@@ -187,6 +204,7 @@
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/133/A%20-%20HQ9%2B/solution.cpp) |
 | 136B | [Ternary Logic](https://codeforces.com/contest/136/problem/B) | 1100 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/136/B%20-%20Ternary%20Logic/solution.py) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
+| 151B | [Phone Numbers](https://codeforces.com/contest/151/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/151/B%20-%20Phone%20Numbers/solution.cpp) |
 | 165A | [Supercentral Point](https://codeforces.com/contest/165/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/165/A%20-%20Supercentral%20Point/solution.cpp) |
 | 195B | [After Training](https://codeforces.com/contest/195/problem/B) | 1300 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/195/B%20-%20After%20Training/solution.py) |
 | 221B | [Little Elephant and Numbers](https://codeforces.com/contest/221/problem/B) | 1300 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/221/B%20-%20Little%20Elephant%20and%20Numbers/solution.py) |
@@ -197,13 +215,18 @@
 | 284A | [Cows and Primitive Roots](https://codeforces.com/contest/284/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/284/A%20-%20Cows%20and%20Primitive%20Roots/solution.cpp) |
 | 289B | [Polo the Penguin and Matrix](https://codeforces.com/contest/289/problem/B) | 1400 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/289/B%20-%20Polo%20the%20Penguin%20and%20Matrix/solution.py) |
 | 381B | [Sereja and Stairs](https://codeforces.com/contest/381/problem/B) | 1100 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/381/B%20-%20Sereja%20and%20Stairs/solution.py) |
+| 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
+| 408B | [Garland](https://codeforces.com/contest/408/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/408/B%20-%20Garland/solution.cpp) |
+| 416B | [Art Union](https://codeforces.com/contest/416/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/416/B%20-%20Art%20Union/solution.cpp) |
 | 445A | [DZY Loves Chessboard](https://codeforces.com/contest/445/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/445/A%20-%20DZY%20Loves%20Chessboard/solution.cpp) |
 | 451B | [Sort the Array](https://codeforces.com/contest/451/problem/B) | 1300 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/451/B%20-%20Sort%20the%20Array/solution.py) |
 | 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/499/B%20-%20Lecture/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
 | 591B | [Rebranding](https://codeforces.com/contest/591/problem/B) | 1200 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/591/B%20-%20Rebranding/solution.py) |
+| 596B | [Wilbur and Array](https://codeforces.com/contest/596/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/596/B%20-%20Wilbur%20and%20Array/solution.cpp) |
 | 604A | [Uncowed Forces](https://codeforces.com/contest/604/problem/A) | 1000 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/604/A%20-%20Uncowed%20Forces/solution.py) |
+| 610B | [Vika and Squares](https://codeforces.com/contest/610/problem/B) | 1300 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/610/B%20-%20Vika%20and%20Squares/solution.py) |
 | 621A | [Wet Shark and Odd and Even](https://codeforces.com/contest/621/problem/A) | 900 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/621/A%20-%20Wet%20Shark%20and%20Odd%20and%20Even/solution.py) |
 | 680B | [Bear and Finding Criminals](https://codeforces.com/contest/680/problem/B) | 1000 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/680/B%20-%20Bear%20and%20Finding%20Criminals/solution.py) |
 | 1918A | [Brick Wall](https://codeforces.com/contest/1918/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1918/A%20-%20Brick%20Wall/solution.cpp) |
@@ -226,6 +249,8 @@
 | 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.cpp) |
 | 284A | [Cows and Primitive Roots](https://codeforces.com/contest/284/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/284/A%20-%20Cows%20and%20Primitive%20Roots/solution.cpp) |
 | 359B | [Permutation](https://codeforces.com/contest/359/problem/B) | 1400 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/359/B%20-%20Permutation/solution.py) |
+| 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
+| 508B | [Anton and currency you all know](https://codeforces.com/contest/508/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/508/B%20-%20Anton%20and%20currency%20you%20all%20know/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 1808B | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1808/B%20-%20Playing%20in%20a%20Casino/solution.cpp) |
 | 1918A | [Brick Wall](https://codeforces.com/contest/1918/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1918/A%20-%20Brick%20Wall/solution.cpp) |
@@ -279,7 +304,10 @@
 |---|---------|------------|----------|
 | 43B | [Letter](https://codeforces.com/contest/43/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/43/B%20-%20Letter/solution.cpp) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
+| 151B | [Phone Numbers](https://codeforces.com/contest/151/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/151/B%20-%20Phone%20Numbers/solution.cpp) |
+| 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
 | 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/499/B%20-%20Lecture/solution.py) |
+| 508B | [Anton and currency you all know](https://codeforces.com/contest/508/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/508/B%20-%20Anton%20and%20currency%20you%20all%20know/solution.cpp) |
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
 | 591B | [Rebranding](https://codeforces.com/contest/591/problem/B) | 1200 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/591/B%20-%20Rebranding/solution.py) |
 | 632C | [The Smallest String Concatenation](https://codeforces.com/contest/632/problem/C) | 1700 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/632/C%20-%20The%20Smallest%20String%20Concatenation/solution.cpp) |
