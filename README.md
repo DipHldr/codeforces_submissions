@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 84 | 20 |
+| 85 | 20 |
 
 ---
 
@@ -25,8 +25,8 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (30)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (35)
-- [math](#math) (33)
+- [implementation](#implementation) (36)
+- [math](#math) (34)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (12)
 - [strings](#strings) (17)
@@ -228,6 +228,7 @@
 | 604A | [Uncowed Forces](https://codeforces.com/contest/604/problem/A) | 1000 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/604/A%20-%20Uncowed%20Forces/solution.py) |
 | 610B | [Vika and Squares](https://codeforces.com/contest/610/problem/B) | 1300 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/610/B%20-%20Vika%20and%20Squares/solution.py) |
 | 621A | [Wet Shark and Odd and Even](https://codeforces.com/contest/621/problem/A) | 900 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/621/A%20-%20Wet%20Shark%20and%20Odd%20and%20Even/solution.py) |
+| 676B | [Pyramid of Glasses](https://codeforces.com/contest/676/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/676/B%20-%20Pyramid%20of%20Glasses/solution.cpp) |
 | 680B | [Bear and Finding Criminals](https://codeforces.com/contest/680/problem/B) | 1000 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/680/B%20-%20Bear%20and%20Finding%20Criminals/solution.py) |
 | 1918A | [Brick Wall](https://codeforces.com/contest/1918/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1918/A%20-%20Brick%20Wall/solution.cpp) |
 | 2001A | [Make All Equal](https://codeforces.com/contest/2001/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2001/A%20-%20Make%20All%20Equal/solution.cpp) |
@@ -252,6 +253,7 @@
 | 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
 | 508B | [Anton and currency you all know](https://codeforces.com/contest/508/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/508/B%20-%20Anton%20and%20currency%20you%20all%20know/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 676B | [Pyramid of Glasses](https://codeforces.com/contest/676/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/676/B%20-%20Pyramid%20of%20Glasses/solution.cpp) |
 | 1808B | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1808/B%20-%20Playing%20in%20a%20Casino/solution.cpp) |
 | 1918A | [Brick Wall](https://codeforces.com/contest/1918/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1918/A%20-%20Brick%20Wall/solution.cpp) |
 | 1927C | [Choose the Different Ones!](https://codeforces.com/contest/1927/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1927/C%20-%20Choose%20the%20Different%20Ones!/solution.cpp) |
