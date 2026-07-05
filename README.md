@@ -6,35 +6,122 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 16 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
-- [math](#math) (1)
+- [*special](#special) (2)
+- [brute force](#brute-force) (4)
+- [constructive algorithms](#constructive-algorithms) (7)
+- [geometry](#geometry) (1)
+- [graphs](#graphs) (1)
+- [greedy](#greedy) (8)
+- [implementation](#implementation) (2)
+- [math](#math) (9)
 - [number theory](#number-theory) (1)
+- [sortings](#sortings) (1)
+- [strings](#strings) (6)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1952A | [Are You a Robot, Again?](https://codeforces.com/contest/1952/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1952/A%20-%20Are%20You%20a%20Robot%2C%20Again%3F/solution.cpp) |
+| 1952B | [Is it stated?](https://codeforces.com/contest/1952/problem/B) | Unrated | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1952/B%20-%20Is%20it%20stated%3F/solution.py) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1927C | [Choose the Different Ones!](https://codeforces.com/contest/1927/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1927/C%20-%20Choose%20the%20Different%20Ones!/solution.cpp) |
+| 1931A | [Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | 800 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1931/A%20-%20Recovering%20a%20Small%20String/solution.py) |
+| 1941A | [Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1941/A%20-%20Rudolf%20and%20the%20Ticket/solution.cpp) |
+| 1948A | [Special Characters](https://codeforces.com/contest/1948/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1948/A%20-%20Special%20Characters/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1918A | [Brick Wall](https://codeforces.com/contest/1918/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1918/A%20-%20Brick%20Wall/solution.cpp) |
+| 1925A | [We Got Everything Covered!](https://codeforces.com/contest/1925/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1925/A%20-%20We%20Got%20Everything%20Covered!/solution.cpp) |
+| 1927B | [Following the String](https://codeforces.com/contest/1927/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1927/B%20-%20Following%20the%20String/solution.cpp) |
+| 1929A | [Sasha and the Beautiful Array](https://codeforces.com/contest/1929/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1929/A%20-%20Sasha%20and%20the%20Beautiful%20Array/solution.cpp) |
+| 1929B | [Sasha and the Drawing](https://codeforces.com/contest/1929/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1929/B%20-%20Sasha%20and%20the%20Drawing/solution.cpp) |
+| 1942A | [Farmer John's Challenge](https://codeforces.com/contest/1942/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1942/A%20-%20Farmer%20John's%20Challenge/solution.cpp) |
+| 1948A | [Special Characters](https://codeforces.com/contest/1948/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1948/A%20-%20Special%20Characters/solution.cpp) |
+
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1928A | [Rectangle Cutting](https://codeforces.com/contest/1928/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1928/A%20-%20Rectangle%20Cutting/solution.cpp) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1944A | [Destroying Bridges](https://codeforces.com/contest/1944/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1944/A%20-%20Destroying%20Bridges/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1918A | [Brick Wall](https://codeforces.com/contest/1918/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1918/A%20-%20Brick%20Wall/solution.cpp) |
+| 1925A | [We Got Everything Covered!](https://codeforces.com/contest/1925/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1925/A%20-%20We%20Got%20Everything%20Covered!/solution.cpp) |
+| 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.cpp) |
+| 1927B | [Following the String](https://codeforces.com/contest/1927/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1927/B%20-%20Following%20the%20String/solution.cpp) |
+| 1927C | [Choose the Different Ones!](https://codeforces.com/contest/1927/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1927/C%20-%20Choose%20the%20Different%20Ones!/solution.cpp) |
+| 1929A | [Sasha and the Beautiful Array](https://codeforces.com/contest/1929/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1929/A%20-%20Sasha%20and%20the%20Beautiful%20Array/solution.cpp) |
+| 1929B | [Sasha and the Drawing](https://codeforces.com/contest/1929/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1929/B%20-%20Sasha%20and%20the%20Drawing/solution.cpp) |
+| 1944A | [Destroying Bridges](https://codeforces.com/contest/1944/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1944/A%20-%20Destroying%20Bridges/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 284A | [Cows and Primitive Roots](https://codeforces.com/contest/284/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/284/A%20-%20Cows%20and%20Primitive%20Roots/solution.cpp) |
+| 1918A | [Brick Wall](https://codeforces.com/contest/1918/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1918/A%20-%20Brick%20Wall/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 284A | [Cows and Primitive Roots](https://codeforces.com/contest/284/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/284/A%20-%20Cows%20and%20Primitive%20Roots/solution.cpp) |
+| 1918A | [Brick Wall](https://codeforces.com/contest/1918/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1918/A%20-%20Brick%20Wall/solution.cpp) |
+| 1927C | [Choose the Different Ones!](https://codeforces.com/contest/1927/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1927/C%20-%20Choose%20the%20Different%20Ones!/solution.cpp) |
+| 1928A | [Rectangle Cutting](https://codeforces.com/contest/1928/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1928/A%20-%20Rectangle%20Cutting/solution.cpp) |
+| 1929A | [Sasha and the Beautiful Array](https://codeforces.com/contest/1929/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1929/A%20-%20Sasha%20and%20the%20Beautiful%20Array/solution.cpp) |
+| 1929B | [Sasha and the Drawing](https://codeforces.com/contest/1929/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1929/B%20-%20Sasha%20and%20the%20Drawing/solution.cpp) |
+| 1941A | [Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1941/A%20-%20Rudolf%20and%20the%20Ticket/solution.cpp) |
+| 1942A | [Farmer John's Challenge](https://codeforces.com/contest/1942/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1942/A%20-%20Farmer%20John's%20Challenge/solution.cpp) |
+| 1944A | [Destroying Bridges](https://codeforces.com/contest/1944/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1944/A%20-%20Destroying%20Bridges/solution.cpp) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 284A | [Cows and Primitive Roots](https://codeforces.com/contest/284/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/284/A%20-%20Cows%20and%20Primitive%20Roots/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1929A | [Sasha and the Beautiful Array](https://codeforces.com/contest/1929/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1929/A%20-%20Sasha%20and%20the%20Beautiful%20Array/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1925A | [We Got Everything Covered!](https://codeforces.com/contest/1925/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1925/A%20-%20We%20Got%20Everything%20Covered!/solution.cpp) |
+| 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.cpp) |
+| 1927B | [Following the String](https://codeforces.com/contest/1927/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1927/B%20-%20Following%20the%20String/solution.cpp) |
+| 1931A | [Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | 800 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1931/A%20-%20Recovering%20a%20Small%20String/solution.py) |
+| 1952A | [Are You a Robot, Again?](https://codeforces.com/contest/1952/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1952/A%20-%20Are%20You%20a%20Robot%2C%20Again%3F/solution.cpp) |
+| 1952B | [Is it stated?](https://codeforces.com/contest/1952/problem/B) | Unrated | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1952/B%20-%20Is%20it%20stated%3F/solution.py) |
 
 ---
 
