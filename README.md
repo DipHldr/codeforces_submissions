@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 86 | 21 |
+| 87 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [binary search](#binary-search) (2)
+- [binary search](#binary-search) (3)
 - [brute force](#brute-force) (19)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (19)
@@ -25,7 +25,7 @@
 - [graphs](#graphs) (3)
 - [greedy](#greedy) (30)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (36)
+- [implementation](#implementation) (37)
 - [math](#math) (34)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (12)
@@ -47,6 +47,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 165B | [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/165/B%20-%20Burning%20Midnight%20Oil/solution.cpp) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/230/B%20-%20T-primes/solution.py) |
 | 676C | [Vasya and String](https://codeforces.com/contest/676/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/676/C%20-%20Vasya%20and%20String/solution.cpp) |
 
@@ -209,6 +210,7 @@
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 151B | [Phone Numbers](https://codeforces.com/contest/151/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/151/B%20-%20Phone%20Numbers/solution.cpp) |
 | 165A | [Supercentral Point](https://codeforces.com/contest/165/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/165/A%20-%20Supercentral%20Point/solution.cpp) |
+| 165B | [Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/165/B%20-%20Burning%20Midnight%20Oil/solution.cpp) |
 | 195B | [After Training](https://codeforces.com/contest/195/problem/B) | 1300 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/195/B%20-%20After%20Training/solution.py) |
 | 221B | [Little Elephant and Numbers](https://codeforces.com/contest/221/problem/B) | 1300 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/221/B%20-%20Little%20Elephant%20and%20Numbers/solution.py) |
 | 227B | [Effective Approach](https://codeforces.com/contest/227/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/227/B%20-%20Effective%20Approach/solution.cpp) |
