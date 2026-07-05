@@ -6,23 +6,27 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 11 |
+| 31 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (7)
+- [brute force](#brute-force) (9)
+- [combinatorics](#combinatorics) (2)
+- [constructive algorithms](#constructive-algorithms) (11)
+- [data structures](#data-structures) (1)
+- [dp](#dp) (1)
+- [games](#games) (1)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (8)
-- [implementation](#implementation) (2)
-- [math](#math) (9)
-- [number theory](#number-theory) (1)
-- [sortings](#sortings) (1)
-- [strings](#strings) (6)
+- [greedy](#greedy) (16)
+- [implementation](#implementation) (5)
+- [math](#math) (17)
+- [number theory](#number-theory) (2)
+- [sortings](#sortings) (3)
+- [strings](#strings) (8)
 
 ---
 
@@ -37,10 +41,22 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 1927C | [Choose the Different Ones!](https://codeforces.com/contest/1927/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1927/C%20-%20Choose%20the%20Different%20Ones!/solution.cpp) |
 | 1931A | [Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | 800 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1931/A%20-%20Recovering%20a%20Small%20String/solution.py) |
 | 1941A | [Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1941/A%20-%20Rudolf%20and%20the%20Ticket/solution.cpp) |
 | 1948A | [Special Characters](https://codeforces.com/contest/1948/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1948/A%20-%20Special%20Characters/solution.cpp) |
+| 1985E | [Secret Box](https://codeforces.com/contest/1985/problem/E) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1985/E%20-%20Secret%20Box/solution.cpp) |
+| 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
+| 2008B | [Square or Not](https://codeforces.com/contest/2008/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2008/B%20-%20Square%20or%20Not/solution.cpp) |
+| 2037B | [Intercepted Inputs](https://codeforces.com/contest/2037/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2037/B%20-%20Intercepted%20Inputs/solution.cpp) |
+
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1985E | [Secret Box](https://codeforces.com/contest/1985/problem/E) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1985/E%20-%20Secret%20Box/solution.cpp) |
+| 2025B | [Binomial Coefficients, Kind Of](https://codeforces.com/contest/2025/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2025/B%20-%20Binomial%20Coefficients%2C%20Kind%20Of/solution.cpp) |
 
 ### constructive algorithms
 
@@ -53,6 +69,28 @@
 | 1929B | [Sasha and the Drawing](https://codeforces.com/contest/1929/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1929/B%20-%20Sasha%20and%20the%20Drawing/solution.cpp) |
 | 1942A | [Farmer John's Challenge](https://codeforces.com/contest/1942/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1942/A%20-%20Farmer%20John's%20Challenge/solution.cpp) |
 | 1948A | [Special Characters](https://codeforces.com/contest/1948/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1948/A%20-%20Special%20Characters/solution.cpp) |
+| 1951A | [Dual Trigger](https://codeforces.com/contest/1951/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1951/A%20-%20Dual%20Trigger/solution.cpp) |
+| 2001B | [Generate Permutation](https://codeforces.com/contest/2001/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2001/B%20-%20Generate%20Permutation/solution.cpp) |
+| 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
+| 2037C | [Superultra's Favorite Permutation](https://codeforces.com/contest/2037/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2037/C%20-%20Superultra's%20Favorite%20Permutation/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2021A | [Meaning Mean](https://codeforces.com/contest/2021/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2021/A%20-%20Meaning%20Mean/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2025B | [Binomial Coefficients, Kind Of](https://codeforces.com/contest/2025/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2025/B%20-%20Binomial%20Coefficients%2C%20Kind%20Of/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2003B | [Turtle and Piggy Are Playing a Game 2](https://codeforces.com/contest/2003/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2003/B%20-%20Turtle%20and%20Piggy%20Are%20Playing%20a%20Game%202/solution.cpp) |
 
 ### geometry
 
@@ -70,6 +108,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 1918A | [Brick Wall](https://codeforces.com/contest/1918/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1918/A%20-%20Brick%20Wall/solution.cpp) |
 | 1925A | [We Got Everything Covered!](https://codeforces.com/contest/1925/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1925/A%20-%20We%20Got%20Everything%20Covered!/solution.cpp) |
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.cpp) |
@@ -78,6 +117,13 @@
 | 1929A | [Sasha and the Beautiful Array](https://codeforces.com/contest/1929/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1929/A%20-%20Sasha%20and%20the%20Beautiful%20Array/solution.cpp) |
 | 1929B | [Sasha and the Drawing](https://codeforces.com/contest/1929/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1929/B%20-%20Sasha%20and%20the%20Drawing/solution.cpp) |
 | 1944A | [Destroying Bridges](https://codeforces.com/contest/1944/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1944/A%20-%20Destroying%20Bridges/solution.cpp) |
+| 1951A | [Dual Trigger](https://codeforces.com/contest/1951/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1951/A%20-%20Dual%20Trigger/solution.cpp) |
+| 2001A | [Make All Equal](https://codeforces.com/contest/2001/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2001/A%20-%20Make%20All%20Equal/solution.cpp) |
+| 2003A | [Turtle and Good Strings](https://codeforces.com/contest/2003/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2003/A%20-%20Turtle%20and%20Good%20Strings/solution.cpp) |
+| 2003B | [Turtle and Piggy Are Playing a Game 2](https://codeforces.com/contest/2003/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2003/B%20-%20Turtle%20and%20Piggy%20Are%20Playing%20a%20Game%202/solution.cpp) |
+| 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
+| 2021A | [Meaning Mean](https://codeforces.com/contest/2021/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2021/A%20-%20Meaning%20Mean/solution.cpp) |
+| 2037C | [Superultra's Favorite Permutation](https://codeforces.com/contest/2037/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2037/C%20-%20Superultra's%20Favorite%20Permutation/solution.cpp) |
 
 ### implementation
 
@@ -85,6 +131,9 @@
 |---|---------|------------|----------|
 | 284A | [Cows and Primitive Roots](https://codeforces.com/contest/284/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/284/A%20-%20Cows%20and%20Primitive%20Roots/solution.cpp) |
 | 1918A | [Brick Wall](https://codeforces.com/contest/1918/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1918/A%20-%20Brick%20Wall/solution.cpp) |
+| 2001A | [Make All Equal](https://codeforces.com/contest/2001/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2001/A%20-%20Make%20All%20Equal/solution.cpp) |
+| 2037A | [Twice](https://codeforces.com/contest/2037/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2037/A%20-%20Twice/solution.cpp) |
+| 2037B | [Intercepted Inputs](https://codeforces.com/contest/2037/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2037/B%20-%20Intercepted%20Inputs/solution.cpp) |
 
 ### math
 
@@ -99,18 +148,29 @@
 | 1941A | [Rudolf and the Ticket](https://codeforces.com/contest/1941/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1941/A%20-%20Rudolf%20and%20the%20Ticket/solution.cpp) |
 | 1942A | [Farmer John's Challenge](https://codeforces.com/contest/1942/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1942/A%20-%20Farmer%20John's%20Challenge/solution.cpp) |
 | 1944A | [Destroying Bridges](https://codeforces.com/contest/1944/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1944/A%20-%20Destroying%20Bridges/solution.cpp) |
+| 1951A | [Dual Trigger](https://codeforces.com/contest/1951/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1951/A%20-%20Dual%20Trigger/solution.cpp) |
+| 1955A | [Yogurt Sale](https://codeforces.com/contest/1955/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1955/A%20-%20Yogurt%20Sale/solution.cpp) |
+| 1985E | [Secret Box](https://codeforces.com/contest/1985/problem/E) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1985/E%20-%20Secret%20Box/solution.cpp) |
+| 2008A | [Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2008/A%20-%20Sakurako's%20Exam/solution.cpp) |
+| 2008B | [Square or Not](https://codeforces.com/contest/2008/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2008/B%20-%20Square%20or%20Not/solution.cpp) |
+| 2021A | [Meaning Mean](https://codeforces.com/contest/2021/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2021/A%20-%20Meaning%20Mean/solution.cpp) |
+| 2025B | [Binomial Coefficients, Kind Of](https://codeforces.com/contest/2025/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2025/B%20-%20Binomial%20Coefficients%2C%20Kind%20Of/solution.cpp) |
+| 2037C | [Superultra's Favorite Permutation](https://codeforces.com/contest/2037/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2037/C%20-%20Superultra's%20Favorite%20Permutation/solution.cpp) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 284A | [Cows and Primitive Roots](https://codeforces.com/contest/284/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/284/A%20-%20Cows%20and%20Primitive%20Roots/solution.cpp) |
+| 2037C | [Superultra's Favorite Permutation](https://codeforces.com/contest/2037/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2037/C%20-%20Superultra's%20Favorite%20Permutation/solution.cpp) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1929A | [Sasha and the Beautiful Array](https://codeforces.com/contest/1929/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1929/A%20-%20Sasha%20and%20the%20Beautiful%20Array/solution.cpp) |
+| 2003B | [Turtle and Piggy Are Playing a Game 2](https://codeforces.com/contest/2003/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2003/B%20-%20Turtle%20and%20Piggy%20Are%20Playing%20a%20Game%202/solution.cpp) |
+| 2021A | [Meaning Mean](https://codeforces.com/contest/2021/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2021/A%20-%20Meaning%20Mean/solution.cpp) |
 
 ### strings
 
@@ -122,6 +182,8 @@
 | 1931A | [Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | 800 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1931/A%20-%20Recovering%20a%20Small%20String/solution.py) |
 | 1952A | [Are You a Robot, Again?](https://codeforces.com/contest/1952/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1952/A%20-%20Are%20You%20a%20Robot%2C%20Again%3F/solution.cpp) |
 | 1952B | [Is it stated?](https://codeforces.com/contest/1952/problem/B) | Unrated | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1952/B%20-%20Is%20it%20stated%3F/solution.py) |
+| 2003A | [Turtle and Good Strings](https://codeforces.com/contest/2003/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2003/A%20-%20Turtle%20and%20Good%20Strings/solution.cpp) |
+| 2008B | [Square or Not](https://codeforces.com/contest/2008/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2008/B%20-%20Square%20or%20Not/solution.cpp) |
 
 ---
 
