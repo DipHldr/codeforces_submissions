@@ -6,20 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 85 | 20 |
+| 86 | 21 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (2)
 - [brute force](#brute-force) (19)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (19)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (3)
-- [dp](#dp) (7)
+- [dp](#dp) (8)
 - [games](#games) (4)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (3)
@@ -29,9 +29,10 @@
 - [math](#math) (34)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (12)
-- [strings](#strings) (17)
+- [strings](#strings) (18)
 - [ternary search](#ternary-search) (1)
 - [trees](#trees) (1)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -47,6 +48,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/230/B%20-%20T-primes/solution.py) |
+| 676C | [Vasya and String](https://codeforces.com/contest/676/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/676/C%20-%20Vasya%20and%20String/solution.cpp) |
 
 ### brute force
 
@@ -129,6 +131,7 @@
 | 359B | [Permutation](https://codeforces.com/contest/359/problem/B) | 1400 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/359/B%20-%20Permutation/solution.py) |
 | 416B | [Art Union](https://codeforces.com/contest/416/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/416/B%20-%20Art%20Union/solution.cpp) |
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
+| 676C | [Vasya and String](https://codeforces.com/contest/676/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/676/C%20-%20Vasya%20and%20String/solution.cpp) |
 | 2025B | [Binomial Coefficients, Kind Of](https://codeforces.com/contest/2025/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2025/B%20-%20Binomial%20Coefficients%2C%20Kind%20Of/solution.cpp) |
 
 ### games
@@ -313,6 +316,7 @@
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
 | 591B | [Rebranding](https://codeforces.com/contest/591/problem/B) | 1200 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/591/B%20-%20Rebranding/solution.py) |
 | 632C | [The Smallest String Concatenation](https://codeforces.com/contest/632/problem/C) | 1700 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/632/C%20-%20The%20Smallest%20String%20Concatenation/solution.cpp) |
+| 676C | [Vasya and String](https://codeforces.com/contest/676/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/676/C%20-%20Vasya%20and%20String/solution.cpp) |
 | 1925A | [We Got Everything Covered!](https://codeforces.com/contest/1925/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1925/A%20-%20We%20Got%20Everything%20Covered!/solution.cpp) |
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.cpp) |
 | 1927B | [Following the String](https://codeforces.com/contest/1927/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1927/B%20-%20Following%20the%20String/solution.cpp) |
@@ -333,6 +337,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2127D | [Root was Built by Love, Broken by Destiny](https://codeforces.com/contest/2127/problem/D) | 1800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2127/D%20-%20Root%20was%20Built%20by%20Love%2C%20Broken%20by%20Destiny/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 676C | [Vasya and String](https://codeforces.com/contest/676/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/676/C%20-%20Vasya%20and%20String/solution.cpp) |
 
 ---
 
