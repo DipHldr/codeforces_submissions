@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 88 | 21 |
+| 89 | 21 |
 
 ---
 
@@ -19,11 +19,11 @@
 - [constructive algorithms](#constructive-algorithms) (19)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (3)
-- [dp](#dp) (8)
+- [dp](#dp) (9)
 - [games](#games) (4)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (30)
+- [greedy](#greedy) (31)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (37)
 - [math](#math) (35)
@@ -131,6 +131,7 @@
 | 289B | [Polo the Penguin and Matrix](https://codeforces.com/contest/289/problem/B) | 1400 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/289/B%20-%20Polo%20the%20Penguin%20and%20Matrix/solution.py) |
 | 359B | [Permutation](https://codeforces.com/contest/359/problem/B) | 1400 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/359/B%20-%20Permutation/solution.py) |
 | 416B | [Art Union](https://codeforces.com/contest/416/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/416/B%20-%20Art%20Union/solution.cpp) |
+| 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/545/C%20-%20Woodcutters/solution.cpp) |
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
 | 676C | [Vasya and String](https://codeforces.com/contest/676/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/676/C%20-%20Vasya%20and%20String/solution.cpp) |
 | 2025B | [Binomial Coefficients, Kind Of](https://codeforces.com/contest/2025/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/2025/B%20-%20Binomial%20Coefficients%2C%20Kind%20Of/solution.cpp) |
@@ -170,6 +171,7 @@
 | 381B | [Sereja and Stairs](https://codeforces.com/contest/381/problem/B) | 1100 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/381/B%20-%20Sereja%20and%20Stairs/solution.py) |
 | 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
 | 508B | [Anton and currency you all know](https://codeforces.com/contest/508/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/508/B%20-%20Anton%20and%20currency%20you%20all%20know/solution.cpp) |
+| 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/545/C%20-%20Woodcutters/solution.cpp) |
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
 | 596B | [Wilbur and Array](https://codeforces.com/contest/596/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/596/B%20-%20Wilbur%20and%20Array/solution.cpp) |
 | 863B | [Kayaking](https://codeforces.com/contest/863/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/863/B%20-%20Kayaking/solution.cpp) |
