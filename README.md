@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 90 | 21 |
+| 91 | 21 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [games](#games) (4)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (31)
+- [greedy](#greedy) (32)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (37)
 - [math](#math) (35)
@@ -171,6 +171,7 @@
 | 276B | [Little Girl and Game](https://codeforces.com/contest/276/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/276/B%20-%20Little%20Girl%20and%20Game/solution.cpp) |
 | 381B | [Sereja and Stairs](https://codeforces.com/contest/381/problem/B) | 1100 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/381/B%20-%20Sereja%20and%20Stairs/solution.py) |
 | 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
+| 435B | [Pasha Maximizes](https://codeforces.com/contest/435/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/435/B%20-%20Pasha%20Maximizes/solution.cpp) |
 | 508B | [Anton and currency you all know](https://codeforces.com/contest/508/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/508/B%20-%20Anton%20and%20currency%20you%20all%20know/solution.cpp) |
 | 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/545/C%20-%20Woodcutters/solution.cpp) |
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
