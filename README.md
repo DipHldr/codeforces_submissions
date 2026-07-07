@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 89 | 21 |
+| 90 | 21 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (2)
 - [binary search](#binary-search) (3)
-- [brute force](#brute-force) (19)
+- [brute force](#brute-force) (20)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (19)
 - [data structures](#data-structures) (2)
@@ -65,6 +65,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
 | 574B | [Bear and Three Musketeers](https://codeforces.com/contest/574/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/574/B%20-%20Bear%20and%20Three%20Musketeers/solution.cpp) |
+| 681B | [Economy Game](https://codeforces.com/contest/681/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/681/B%20-%20Economy%20Game/solution.cpp) |
 | 863B | [Kayaking](https://codeforces.com/contest/863/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/863/B%20-%20Kayaking/solution.cpp) |
 | 1927C | [Choose the Different Ones!](https://codeforces.com/contest/1927/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1927/C%20-%20Choose%20the%20Different%20Ones!/solution.cpp) |
 | 1931A | [Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | 800 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/1931/A%20-%20Recovering%20a%20Small%20String/solution.py) |
