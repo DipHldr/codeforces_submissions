@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 91 | 21 |
+| 92 | 21 |
 
 ---
 
@@ -23,9 +23,9 @@
 - [games](#games) (4)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (3)
-- [greedy](#greedy) (32)
-- [hashing](#hashing) (1)
-- [implementation](#implementation) (37)
+- [greedy](#greedy) (33)
+- [hashing](#hashing) (2)
+- [implementation](#implementation) (38)
 - [math](#math) (35)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (12)
@@ -172,6 +172,7 @@
 | 381B | [Sereja and Stairs](https://codeforces.com/contest/381/problem/B) | 1100 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/381/B%20-%20Sereja%20and%20Stairs/solution.py) |
 | 385B | [Bear and Strings](https://codeforces.com/contest/385/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/385/B%20-%20Bear%20and%20Strings/solution.cpp) |
 | 435B | [Pasha Maximizes](https://codeforces.com/contest/435/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/435/B%20-%20Pasha%20Maximizes/solution.cpp) |
+| 486B | [OR in Matrix](https://codeforces.com/contest/486/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/486/B%20-%20OR%20in%20Matrix/solution.cpp) |
 | 508B | [Anton and currency you all know](https://codeforces.com/contest/508/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/508/B%20-%20Anton%20and%20currency%20you%20all%20know/solution.cpp) |
 | 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/545/C%20-%20Woodcutters/solution.cpp) |
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
@@ -201,6 +202,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 486B | [OR in Matrix](https://codeforces.com/contest/486/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/486/B%20-%20OR%20in%20Matrix/solution.cpp) |
 | 574B | [Bear and Three Musketeers](https://codeforces.com/contest/574/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/574/B%20-%20Bear%20and%20Three%20Musketeers/solution.cpp) |
 
 ### implementation
@@ -229,6 +231,7 @@
 | 416B | [Art Union](https://codeforces.com/contest/416/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/416/B%20-%20Art%20Union/solution.cpp) |
 | 445A | [DZY Loves Chessboard](https://codeforces.com/contest/445/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/445/A%20-%20DZY%20Loves%20Chessboard/solution.cpp) |
 | 451B | [Sort the Array](https://codeforces.com/contest/451/problem/B) | 1300 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/451/B%20-%20Sort%20the%20Array/solution.py) |
+| 486B | [OR in Matrix](https://codeforces.com/contest/486/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/486/B%20-%20OR%20in%20Matrix/solution.cpp) |
 | 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [Python 3](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/499/B%20-%20Lecture/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/DipHldr/codeforces_submissions/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
